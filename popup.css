@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin: 0;
+    width: 350px;
+    height: 200px;
+    
+    
+}
+.mainContainer{
+background: rgba( 155, 155, 155, 0.10 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5.5px );
+-webkit-backdrop-filter: blur( 5.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+min-height: 150px;
+min-width: 300px;
+margin-top: 25px;
+margin-left: 25px;
+margin-right: 25px;
+position: absolute;
+text-align: center;
+}
+
+.timerDisplay{
+    position: relative;
+    padding : 20px;
+}
+
